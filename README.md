@@ -21,14 +21,14 @@ $ npm install
 # Run the dev server
 $ npm run dev
 
-# Open Graphiql on your server
+# Open Graphiql tool on your browser
 http://localhost:4000/graphql
 ```
 
 # Quick Start on the Basics of GraphQL
 > After the Graphiql tool loads up on your browser, you can now query the data using GraphQL. Follow these steps:
 
-1. On the left panel of the Graphiql tool on your browser, you can perform these actions:
+1. On the left panel of the Graphiql tool on your browser, you can perform these actions by pasting the code below:
 
 ```bash
 # Get all customers
